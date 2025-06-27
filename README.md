@@ -1,6 +1,12 @@
 # Lending Club Case Study
 This project aims to perform Exploratory Data Analysis (EDA) to understand the patterns and factors influencing loan defaults. The analysis will help in identifying high-risk applicants and making informed lending decisions.
 
+## 🔄 ML Workflow Diagram
+
+Below is a visual representation of the end-to-end ML pipeline used in this project:
+
+![ML Pipeline](pipeline.png)
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Problem Statement](#problem-statement)
